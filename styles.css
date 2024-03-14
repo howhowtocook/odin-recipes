@@ -1,0 +1,32 @@
+h1{
+    background-color: black;
+    color: aliceblue;
+    font-size: 40px;
+    text-align: center;
+}
+
+h2{
+background-color: darkslategray;
+color: antiquewhite;
+font-size: 30px;
+}
+
+p{
+    background-color: tomato;
+    font-size: 14px;
+}
+
+.recipelink{
+    background-color: bisque;
+    padding: 10px;
+    border: 5px yellow;
+    display: block;
+    margin: 10px;
+    
+}
+
+.title{
+    border: 10px gray;
+    padding: 20px;
+    margin: 40px;
+}
